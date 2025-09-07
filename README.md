@@ -1,4 +1,5 @@
 <h2 align="center">Hesap Makinesi</h2>
+<p align="center"><img src="src/alistirmalar/hesap makinesi.png" alt="hesap makinesi" width="180" height="215"></p>
 
 ## Açıklama
 Toplama, çıkarma, çarpma, bölme işlemlerini içeren 4 işlemin, rakamların ve ekranı temizleme butonunun bulunduğu bir hesap makinesi.
